@@ -1,7 +1,7 @@
 {
   "name": "Bank-of-Flatiron-main",
   "version": "0.1.0",
-  "homepage": "https://Engineer-Purity.github.io/Bank-of-Flatiron",
+  "homepage": "https://github.com/itsrawlinz-jeff/Bank-of-Flatiron",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
