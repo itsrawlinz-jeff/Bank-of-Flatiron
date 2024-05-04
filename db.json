@@ -85,25 +85,25 @@
       "amount": -975
     },
     {
+      "id": 13,
       "date": "2022-09-25",
       "description": "description",
       "category": "food",
-      "amount": "-0.01",
-      "id": 13
+      "amount": -0.01
     },
     {
+      "id": 14,
       "date": "",
       "description": "lunch",
       "category": "food",
-      "amount": "-0.01",
-      "id": 14
+      "amount": -0.01
     },
     {
-      "date": "",
-      "description": "",
-      "category": "",
-      "amount": "",
-      "id": 15
+      "id": 15,
+      "date": "2024-05-04",
+      "description": "example transaction",
+      "category": "misc",
+      "amount": -10
     }
   ]
 }
